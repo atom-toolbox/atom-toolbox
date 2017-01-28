@@ -1,7 +1,7 @@
 {
   "name": "atom-toolbox",
-  "main": "./lib/satom-toolbox",
-  "version": "0.0.0",
+  "main": "./lib/atom-toolbox",
+  "version": "0.0.1",
   "description": "A toolbox for working with Atom",
   "keywords": [],
   "activationCommands": {
